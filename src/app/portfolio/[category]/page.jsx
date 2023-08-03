@@ -1,12 +1,12 @@
 import React from 'react';
 import styles from './page.module.css';
 
-function Blog () {
+function Category () {
     return (
         <div>
-            Blog page
+            Category
         </div>
     )
 }
 
-export default Blog;
+export default Category;

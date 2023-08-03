@@ -1,12 +1,12 @@
 import React from 'react';
 import styles from './page.module.css';
 
-function Blog () {
+function Login () {
     return (
         <div>
-            Blog page
+            Login page
         </div>
     )
 }
 
-export default Blog;
+export default Login;
